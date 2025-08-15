@@ -1,0 +1,5 @@
+@startuml
+Alice -[#red]-> Bob : Important message
+Bob -[dashed]-> Charlie : Optional message
+Charlie -[bold]-> Alice : Strong response
+@enduml
